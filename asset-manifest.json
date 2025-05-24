@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4abac1b.css",
+    "main.js": "/static/js/main.35dd1d6f.js",
+    "static/js/453.4e0d85fb.chunk.js": "/static/js/453.4e0d85fb.chunk.js",
+    "static/media/hero-image.png": "/static/media/hero-image.7c785fd8c2b1a554ef67.png",
+    "static/media/semrush-logo.png": "/static/media/semrush-logo.85a709384129c264d81b.png",
+    "static/media/check-icon.png": "/static/media/check-icon.87ba8c2aa89b27c2c89c.png",
+    "static/media/avatar-2.jpg": "/static/media/avatar-2.92b5fe00f3268841b984.jpg",
+    "static/media/avatar-3.jpg": "/static/media/avatar-3.f6ebce23f64b13c695a5.jpg",
+    "static/media/avatar-1.jpg": "/static/media/avatar-1.49cf9e01de6c1ccb8753.jpg",
+    "index.html": "/index.html",
+    "main.f4abac1b.css.map": "/static/css/main.f4abac1b.css.map",
+    "main.35dd1d6f.js.map": "/static/js/main.35dd1d6f.js.map",
+    "453.4e0d85fb.chunk.js.map": "/static/js/453.4e0d85fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4abac1b.css",
+    "static/js/main.35dd1d6f.js"
+  ]
+}
